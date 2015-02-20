@@ -8,5 +8,11 @@
 	text-align: center;
 	font-size: 18px;
 	font-family: "Libre Baskerville", serif;
+    line-height: 30px;
+}
+.tweets {
+	text-align: center;
+	font-size: 18px;
+	font-family: "Libre Baskerville", serif;
     line-height: 60px;
 }
